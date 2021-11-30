@@ -1,0 +1,19 @@
+body{
+    background-color:orange
+}
+img{
+    width:  280px;
+    border-radius: 50px;
+}
+ul{
+    list-style-type:circle;
+    font-size:larger;
+}
+ul li {
+color:blue;
+}
+h3 {
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
